@@ -1,8 +1,8 @@
 # abc-for-beginner
 ## 服务器/server
 服务器是最基本的完整的工作单位,各种软件运行在上面,它可以是一个windows笔记本,可以是一个mac笔记本,也可以是linux虚拟机
-## 操作系统/operating system
-上面提到的windows,mac,linux,就是操作系统,一般情况下,个人电脑就是windows和mac,一般生产环境的服务器用linux操作系统
+
+
 ## 地址端口/url/address&port
 服务器各种服务暴露的地址,一般情况下使用地址加端口的形式,比如在家,用同一个路由器的情况,可以ssh链接,ssh默认的端口往往是22,不写就默认
 ```
@@ -40,5 +40,6 @@ git可以使用http和ssh两种方式,ssh方式,其实就是把github或者远�
 所谓的互联网工作,就是提供网络服务,一个最简单情况是,一个运行在服务器上面的程序,web程序加上server服务器,就是网络服务器了,可以提供网络服务的程序有很多,比如nginx,tomcat,各种框架也会内置一些网络服务
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg0Njk1NzgsMTY4NTQyMDUzNF19
+eyJoaXN0b3J5IjpbMzUwMjEyNDM3LC0xNTM4NDY5NTc4LDE2OD
+U0MjA1MzRdfQ==
 -->
