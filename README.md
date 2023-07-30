@@ -1,5 +1,8 @@
 # abc-for-beginner
-
+## 部署vue项目
+## vue
+## web-service
+所谓的互联网工作,就是提供网络服务,一个最简单情况是,一个运行在服务器上面的程序,web程序加上server服务器,就是网络服务器了,可以提供网络服务的程序有很多,比如nginx,tomcat,各种框架也会内置
 ## git 
 管理文件使用git,以下是几个常用命令
 ```
@@ -19,8 +22,6 @@ git pull
 git可以使用http和ssh两种方式,ssh方式,其实就是把github或者远程仓库当成ssh的服务器
 ## file
 命令的可读性,复用性很低,就是读起来不直观,写错了也不知道咋回事,然后想要改改继续用也很不方便,所以需要把让服务器做的事(程序),处理的数据记录(数据)在文件里,如果希望使用python格式,记录这些东西,那就写XXX.py,如果希望写html,那就写XXX.html,`.py` `.html` 这种叫做文件的扩展名
-## web-service
-所谓的互联网工作,就是提供网络服务,一个最简单情况是,一个运行在服务器上面的程序,web程序加上server服务器,就是网络服务器了,可以提供网络服务的程序有很多,比如nginx,tomcat,各种框架也会内置一些网络服务
 ## service
 本质上,允许其他人的登陆到自己的服务器,这其实就是一个服务,可以让其他服务器连接到这台服务器,而别人想要使用这个服务就需要访问地址和端口,也就是`ssh -p 22 qubaitian@192.168.31.8`,再比如网络服务,http的请求默认是80,http的demo项目一般默认是8080,假如本地启动一个demo项目的话一般就会再192.168.31.8:8080,而https默认的是443
 ## url/address&port
@@ -42,6 +43,7 @@ ssh xiaowensha@127.0.0.1
 ## why-desc
 考虑到一直更新,和没事看,我选择了倒叙书写,每次都可以在最上面写,别人也能知道最新写了什么,第一次看的话从下往上看比较好,但是我会尽量遵循只使用解释过的概念,重新更新的部分也会从新拿到最上面,保证读者知道那些部分更新了
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTIxNTAyOSwtMTQwNTk5NDI1OCwtMT
-c5ODc5MjkwLC0xNTM4NDY5NTc4LDE2ODU0MjA1MzRdfQ==
+eyJoaXN0b3J5IjpbMzk2MDA2ODM0LDEwMTkyMTUwMjksLTE0MD
+U5OTQyNTgsLTE3OTg3OTI5MCwtMTUzODQ2OTU3OCwxNjg1NDIw
+NTM0XX0=
 -->
