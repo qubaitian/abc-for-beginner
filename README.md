@@ -39,8 +39,8 @@ ssh xiaowensha@127.0.0.1
 ## server
 服务器是最基本的完整的工作单位,各种软件运行在上面,它可以是一个windows笔记本,可以是一个mac笔记本,也可以是linux虚拟机
 ## why-desc
-考虑到一直更新,和没事看看,我选择了倒叙书写,每次都可以在最上面写
+考虑到一直更新,和没事看,我选择了倒叙书写,每次都可以在最上面写,别人也能知道最新写了什么,第一次看的话从下往上看比较好,但是我会尽量遵循只使用解释过的gai ni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNzA2OTEzOCwtMTc5ODc5MjkwLC0xNT
-M4NDY5NTc4LDE2ODU0MjA1MzRdfQ==
+eyJoaXN0b3J5IjpbLTE2OTM1ODUwNTAsLTE3OTg3OTI5MCwtMT
+UzODQ2OTU3OCwxNjg1NDIwNTM0XX0=
 -->
