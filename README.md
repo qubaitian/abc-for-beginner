@@ -1,5 +1,5 @@
-# abc-for-beginner 
-## git
+# abc-for-beginner
+## git 
 管理文件使用git,以下是几个常用命令
 ```
 从远程clone仓库到本地
@@ -36,10 +36,11 @@ ssh xiaowensha@127.0.0.1
 在没有图形界面之前,和服务器交互的方式就是命令行,简单理解就是小黑框,输入一些命令,让服务器做一些操作,比如一些服务的开启结束,查看日志,都需要通过命令操作
 ## 操作系统/operating system
 上面提到的windows,mac,linux,就是操作系统,一般情况下,个人电脑就是windows和mac,一般生产环境的服务器用linux操作系统
-## 服务器/server
+## server
 服务器是最基本的完整的工作单位,各种软件运行在上面,它可以是一个windows笔记本,可以是一个mac笔记本,也可以是linux虚拟机
 ## why-desc
+考虑到一直更新,和没事看看,我选择了倒叙书写,每次都可以在最上面写
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzEyNDIyMCwtMTc5ODc5MjkwLC0xNT
+eyJoaXN0b3J5IjpbMTQzNzA2OTEzOCwtMTc5ODc5MjkwLC0xNT
 M4NDY5NTc4LDE2ODU0MjA1MzRdfQ==
 -->
