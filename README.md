@@ -1,12 +1,14 @@
 # abc-for-beginner
 ## 部署vue项目
 todo
-- vue 解释什么是vue
-- deploy 解释什么是部署
-- demo 给一个quick star
+- what is vue
+- what is deploy
+- demo project for quick start
+	- what is node
+	- what is npm
 ## vue
 ## web-service
-所谓的互联网工作,就是提供网络服务,一个最简单情况是,一个运行在服务器上面的程序,web程序加上server服务器,就是网络服务器了,可以提供网络服务的程序有很多,比如nginx,tomcat,各种框架也会内置
+所谓的互联网工作,就是提供网络服务,一个最简单情况是,一个运行在服务器上面的程序,web程序加上server服务器,就是网络服务器了,可以提供网络服务的程序有很多,比如nginx,tomcat,各种框架
 ## git 
 管理文件使用git,以下是几个常用命令
 ```
@@ -47,7 +49,7 @@ ssh xiaowensha@127.0.0.1
 ## why-desc
 考虑到一直更新,和没事看,我选择了倒叙书写,每次都可以在最上面写,别人也能知道最新写了什么,第一次看的话从下往上看比较好,但是我会尽量遵循只使用解释过的概念,重新更新的部分也会从新拿到最上面,保证读者知道那些部分更新了
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjcxMDE3MTMsMTAxOTIxNTAyOSwtMT
-QwNTk5NDI1OCwtMTc5ODc5MjkwLC0xNTM4NDY5NTc4LDE2ODU0
-MjA1MzRdfQ==
+eyJoaXN0b3J5IjpbMTUxMjE4MjI0MSwxMDE5MjE1MDI5LC0xND
+A1OTk0MjU4LC0xNzk4NzkyOTAsLTE1Mzg0Njk1NzgsMTY4NTQy
+MDUzNF19
 -->
