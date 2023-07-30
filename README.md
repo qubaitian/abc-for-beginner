@@ -1,5 +1,6 @@
 # abc-for-beginner
-## 
+## todo-list 
+
 ## git
 管理文件使用git,以下是几个常用命令
 ```
@@ -40,6 +41,6 @@ ssh xiaowensha@127.0.0.1
 ## 服务器/server
 服务器是最基本的完整的工作单位,各种软件运行在上面,它可以是一个windows笔记本,可以是一个mac笔记本,也可以是linux虚拟机
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3OTY5NTk4LC0xNTM4NDY5NTc4LDE2OD
-U0MjA1MzRdfQ==
+eyJoaXN0b3J5IjpbMTgxNzk1NDgzMywtMTUzODQ2OTU3OCwxNj
+g1NDIwNTM0XX0=
 -->
