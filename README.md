@@ -1,5 +1,6 @@
 # abc-for-beginner
-### git
+## 
+## git
 管理文件使用git,以下是几个常用命令
 ```
 从远程clone仓库到本地
@@ -30,7 +31,7 @@ ssh qubaitian@192.168.31.8
 连接你自己的电脑
 ssh xiaowensha@127.0.0.1
 ```
-### ssh
+## ssh
 各种命令里面最常用的就是ssh,可以登陆其他服务器,可以使用密码和公钥私钥方式,简单来说,公钥就是锁,私钥就是钥匙,设置了公钥,其实就是往门上按一把锁,再通过私钥就可以开门了
 ##  命令行/command line
 在没有图形界面之前,和服务器交互的方式就是命令行,简单理解就是小黑框,输入一些命令,让服务器做一些操作,比如一些服务的开启结束,查看日志,都需要通过命令操作
@@ -39,6 +40,6 @@ ssh xiaowensha@127.0.0.1
 ## 服务器/server
 服务器是最基本的完整的工作单位,各种软件运行在上面,它可以是一个windows笔记本,可以是一个mac笔记本,也可以是linux虚拟机
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5OTg2MDUyOCwtMTUzODQ2OTU3OCwxNj
-g1NDIwNTM0XX0=
+eyJoaXN0b3J5IjpbMzE3OTY5NTk4LC0xNTM4NDY5NTc4LDE2OD
+U0MjA1MzRdfQ==
 -->
