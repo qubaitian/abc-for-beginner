@@ -38,3 +38,7 @@ git pull
 git可以使用http和ssh两种方式,ssh方式,其实就是把github或者远程仓库当成ssh的服务器
 ## 网络服务
 所谓的互联网工作,就是提供网络服务,一个最简单情况是,一个运行在服务器上面的程序,web程序加上server服务器,就是网络服务器了,可以提供网络服务的程序有很多,比如nginx,tomcat,各种框架也会内置一些网络服务
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTY4NTQyMDUzNF19
+-->
