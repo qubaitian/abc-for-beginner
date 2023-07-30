@@ -1,4 +1,4 @@
-# abc-for-beginner
+# abc-for-beginner 
 ## git
 管理文件使用git,以下是几个常用命令
 ```
@@ -16,7 +16,7 @@ git push
 git pull
 ```
 git可以使用http和ssh两种方式,ssh方式,其实就是把github或者远程仓库当成ssh的服务器
-## 文件/file
+## file
 命令的可读性,复用性很低,就是读起来不直观,写错了也不知道咋回事,然后想要改改继续用也很不方便,所以需要把让服务器做的事(程序),处理的数据记录(数据)在文件里,如果希望使用python格式,记录这些东西,那就写XXX.py,如果希望写html,那就写XXX.html,`.py` `.html` 这种叫做文件的扩展名
 ## 网络服务
 所谓的互联网工作,就是提供网络服务,一个最简单情况是,一个运行在服务器上面的程序,web程序加上server服务器,就是网络服务器了,可以提供网络服务的程序有很多,比如nginx,tomcat,各种框架也会内置一些网络服务
@@ -38,9 +38,8 @@ ssh xiaowensha@127.0.0.1
 上面提到的windows,mac,linux,就是操作系统,一般情况下,个人电脑就是windows和mac,一般生产环境的服务器用linux操作系统
 ## 服务器/server
 服务器是最基本的完整的工作单位,各种软件运行在上面,它可以是一个windows笔记本,可以是一个mac笔记本,也可以是linux虚拟机
-## 说明
-[Custom foo description](#)
+## why-desc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODc1MjU5MywtMTc5ODc5MjkwLC0xNT
+eyJoaXN0b3J5IjpbMTA1NzEyNDIyMCwtMTc5ODc5MjkwLC0xNT
 M4NDY5NTc4LDE2ODU0MjA1MzRdfQ==
 -->
