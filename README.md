@@ -4,6 +4,7 @@
 ## service
 简单理解服务就是程序,允许其他人的登陆到自己的服务器,这其实就是一个服务,可以让其他服务器连接到这台服务器,而别人想要使用这个服务就需要访问地址和端口,也就是`ssh -p 22 qubaitian@192.168.31.8`,再比如网络服务,http的请求默认是80,http的demo项目一般默认是8080,假如本地启动一个demo项目的话一般就会再192.168.31.8:8080,而https默认的是443
 ## url/address&port
+[mdn关于url的介绍](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL)
 服务器各种服务暴露的地址,一般情况下使用地址加端口的形式,比如在家,用同一个路由器的情况,可以ssh链接,ssh默认的端口往往是22,不写就默认
 |命令|效果|
 |--|--|
@@ -43,8 +44,8 @@ git可以使用http和ssh两种方式,ssh方式,其实就是把github或者远�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTcxNzExMSwtMjIxNjkwMTE4LDE1MT
-E3NzQ2ODksLTQ2NzM2Mjk3MCwxMDE5MjE1MDI5LC0xNDA1OTk0
-MjU4LC0xNzk4NzkyOTAsLTE1Mzg0Njk1NzgsMTY4NTQyMDUzNF
-19
+eyJoaXN0b3J5IjpbOTY5OTQ2NjU1LC0yMjE2OTAxMTgsMTUxMT
+c3NDY4OSwtNDY3MzYyOTcwLDEwMTkyMTUwMjksLTE0MDU5OTQy
+NTgsLTE3OTg3OTI5MCwtMTUzODQ2OTU3OCwxNjg1NDIwNTM0XX
+0=
 -->
