@@ -23,14 +23,13 @@ ssh服务可以让其他人连接到这台服务器
 | ssh qubaitian@192.168.31.8 | 连接我的电脑 |
 |ssh xiaowensha@127.0.0.1|连接你自己的电脑|
 更详细的内容见[这里](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL)
-## operating system
-
 ##  command line
 在没有图形界面之前,和服务器交互的方式就是命令行,
 简单理解就是小黑框,
 输入命令,让服务器工作,比如服务的开启结束,查看日志
 ## ssh
-各种命令里面最常用的就是ssh,可以登陆其他服务器,可以使用密码和公钥私钥两种方式
+各种命令里面最常用的就是ssh,可以登陆其他服务器
+可以使用密码和公钥私钥两种方式
 简单来说,公钥就是锁,私钥就是钥匙,设置了公钥,其实就是往门上按一把锁,再通过私钥就可以开门了
 ## web-service
 所谓的互联网工作,就是提供网络服务,一个最简单情况是,一个运行在服务器上面的程序,web程序加上server服务器,就是网络服务器了,可以提供网络服务的程序有很多,比如nginx,tomcat,各种框架也可以提供网络服务,前端比如vue和react,后端比如flask,spring
@@ -60,8 +59,8 @@ git可以使用http和ssh两种方式,ssh方式,其实就是把github或者远�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTg3Mzg1MDIsLTIyMTY5MDExOCwxNT
-ExNzc0Njg5LC00NjczNjI5NzAsMTAxOTIxNTAyOSwtMTQwNTk5
-NDI1OCwtMTc5ODc5MjkwLC0xNTM4NDY5NTc4LDE2ODU0MjA1Mz
-RdfQ==
+eyJoaXN0b3J5IjpbNDAzNzk5MTkyLC0yMjE2OTAxMTgsMTUxMT
+c3NDY4OSwtNDY3MzYyOTcwLDEwMTkyMTUwMjksLTE0MDU5OTQy
+NTgsLTE3OTg3OTI5MCwtMTUzODQ2OTU3OCwxNjg1NDIwNTM0XX
+0=
 -->
