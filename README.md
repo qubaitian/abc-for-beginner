@@ -3,6 +3,7 @@
 服务器是一个最基本的完整的工作单位
 各种服务运行在上面
 它可以是一个windows台式机,可以是一个mac笔记本,也可以是linux虚拟机
+上面提到的windows,mac,linux,就是操作系统,一般情况下,个人电脑就是windows和mac,一般生产环境的服务器用linux操作系统
 ## service
 简单理解服务就是程序
 允许其他人的登陆到自己的服务器,这其实就是一个服务
@@ -18,7 +19,7 @@ ssh服务可以让其他人连接到这台服务器,而别人想要使用这个�
 |ssh xiaowensha@127.0.0.1|连接你自己的电脑|
 更详细的内容见[这里](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL)
 ## operating system
-上面提到的windows,mac,linux,就是操作系统,一般情况下,个人电脑就是windows和mac,一般生产环境的服务器用linux操作系统
+
 ##  command line
 在没有图形界面之前,和服务器交互的方式就是命令行,简单理解就是小黑框,输入一些命令,让服务器做一些操作,比如一些服务的开启结束,查看日志,都需要通过命令操作
 ## ssh
@@ -51,8 +52,8 @@ git可以使用http和ssh两种方式,ssh方式,其实就是把github或者远�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzUzNzk2OTQsLTIyMTY5MDExOCwxNT
-ExNzc0Njg5LC00NjczNjI5NzAsMTAxOTIxNTAyOSwtMTQwNTk5
-NDI1OCwtMTc5ODc5MjkwLC0xNTM4NDY5NTc4LDE2ODU0MjA1Mz
-RdfQ==
+eyJoaXN0b3J5IjpbNDc2MjAyODYyLC0yMjE2OTAxMTgsMTUxMT
+c3NDY4OSwtNDY3MzYyOTcwLDEwMTkyMTUwMjksLTE0MDU5OTQy
+NTgsLTE3OTg3OTI5MCwtMTUzODQ2OTU3OCwxNjg1NDIwNTM0XX
+0=
 -->
