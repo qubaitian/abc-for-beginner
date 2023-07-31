@@ -1,6 +1,8 @@
 # abc-for-beginner
 ## server
 服务器是一个最基本的完整的工作单位,各种服务运行在上面,它可以是一个windows台式机,可以是一个mac笔记本,也可以是linux虚拟机
+## service
+简单理解服务就是程序,允许其他人的登陆到自己的服务器,这其实就是一个服务,可以让其他服务器连接到这台服务器,而别人想要使用这个服务就需要访问地址和端口,也就是`ssh -p 22 qubaitian@192.168.31.8`,再比如网络服务,http的请求默认是80,http的demo项目一般默认是8080,假如本地启动一个demo项目的话一般就会再192.168.31.8:8080,而https默认的是443
 ## operating system
 上面提到的windows,mac,linux,就是操作系统,一般情况下,个人电脑就是windows和mac,一般生产环境的服务器用linux操作系统
 ##  command line
@@ -12,16 +14,9 @@
 |命令|效果|
 |--|--|
 | ssh qubaitian@192.168.31.8 | 连接我的电脑 |
-||连接你自己的电脑|
+|ssh xiaowensha@127.0.0.1|连接你自己的电脑|
 
-```
-连接我的电脑
-ssh qubaitian@192.168.31.8
-连接你自己的电脑
-ssh xiaowensha@127.0.0.1
-```
-## service
-简单理解服务就是程序,允许其他人的登陆到自己的服务器,这其实就是一个服务,可以让其他服务器连接到这台服务器,而别人想要使用这个服务就需要访问地址和端口,也就是`ssh -p 22 qubaitian@192.168.31.8`,再比如网络服务,http的请求默认是80,http的demo项目一般默认是8080,假如本地启动一个demo项目的话一般就会再192.168.31.8:8080,而https默认的是443
+
 ## web-service
 所谓的互联网工作,就是提供网络服务,一个最简单情况是,一个运行在服务器上面的程序,web程序加上server服务器,就是网络服务器了,可以提供网络服务的程序有很多,比如nginx,tomcat,各种框架也可以提供网络服务,前端比如vue和react,后端比如flask,spring
 ## file
@@ -50,8 +45,8 @@ git可以使用http和ssh两种方式,ssh方式,其实就是把github或者远�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NzMxMzU1NiwtMjIxNjkwMTE4LDE1MT
-E3NzQ2ODksLTQ2NzM2Mjk3MCwxMDE5MjE1MDI5LC0xNDA1OTk0
-MjU4LC0xNzk4NzkyOTAsLTE1Mzg0Njk1NzgsMTY4NTQyMDUzNF
-19
+eyJoaXN0b3J5IjpbMzAxNzEyOTg1LC0yMjE2OTAxMTgsMTUxMT
+c3NDY4OSwtNDY3MzYyOTcwLDEwMTkyMTUwMjksLTE0MDU5OTQy
+NTgsLTE3OTg3OTI5MCwtMTUzODQ2OTU3OCwxNjg1NDIwNTM0XX
+0=
 -->
