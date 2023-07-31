@@ -1,6 +1,6 @@
 # abc-for-beginner
 ## server
-服务器是一个最基本的完整的工作单位,各种服务运行在上面,它可以是一个windows笔记本,可以是一个mac笔记本,也可以是linux虚拟机
+服务器是一个最基本的完整的工作单位,各种服务运行在上面,它可以是一个windows台式机,可以是一个mac笔记本,也可以是linux虚拟机
 ## operating system
 上面提到的windows,mac,linux,就是操作系统,一般情况下,个人电脑就是windows和mac,一般生产环境的服务器用linux操作系统
 ##  command line
@@ -45,7 +45,7 @@ git可以使用http和ssh两种方式,ssh方式,其实就是把github或者远�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzQ5MzE1MywtMjIxNjkwMTE4LDE1MT
+eyJoaXN0b3J5IjpbLTU4Njg4NjcwOCwtMjIxNjkwMTE4LDE1MT
 E3NzQ2ODksLTQ2NzM2Mjk3MCwxMDE5MjE1MDI5LC0xNDA1OTk0
 MjU4LC0xNzk4NzkyOTAsLTE1Mzg0Njk1NzgsMTY4NTQyMDUzNF
 19
