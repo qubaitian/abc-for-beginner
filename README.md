@@ -25,9 +25,9 @@ ssh服务可以让其他人连接到这台服务器
 | ssh qubaitian@192.168.31.8 | 连接我的电脑 |
 |ssh xiaowensha@127.0.0.1|连接你自己的电脑|
 更详细的内容见[这里](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL)
-##  command line
-在没有图形界面之前,和服务器交互的方式就是命令行,
-简单理解就是小黑框,
+##  command
+执行命令是最
+在没有图形界面之前,和服务器交互的方式就是命令行,简单理解就是小黑框,
 输入命令,让服务器工作,比如服务的开启结束,查看日志
 ## ssh
 各种命令里面最常用的就是ssh,可以登陆其他服务器
@@ -59,7 +59,7 @@ git可以使用http和ssh两种方式,ssh方式,其实就是把github或者远�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQ2NDY3MiwtMjIxNjkwMTE4LDE1MT
+eyJoaXN0b3J5IjpbMTEyMTEwNTg4NywtMjIxNjkwMTE4LDE1MT
 E3NzQ2ODksLTQ2NzM2Mjk3MCwxMDE5MjE1MDI5LC0xNDA1OTk0
 MjU4LC0xNzk4NzkyOTAsLTE1Mzg0Njk1NzgsMTY4NTQyMDUzNF
 19
