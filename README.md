@@ -15,7 +15,9 @@ url最常用的组合就是`地址+端口`
 ssh服务可以让其他人连接到这台服务器
 而别人想要使用这个服务就需要访问地址和端口
 也就是`ssh -p 22 qubaitian@192.168.31.8`
-再比如网络服务,http的请求默认是80,http的demo项目一般默认是8080,假如本地启动一个demo项目的话一般就会再192.168.31.8:8080,而https默认的是443
+再比如网络服务,http的请求默认是80,http的demo项目一般默认是8080
+假如本地启动一个demo项目的话一般就会再192.168.31.8:8080
+而https默认的是443
 |命令|效果|
 |--|--|
 | ssh qubaitian@192.168.31.8 | 连接我的电脑 |
@@ -24,9 +26,12 @@ ssh服务可以让其他人连接到这台服务器
 ## operating system
 
 ##  command line
-在没有图形界面之前,和服务器交互的方式就是命令行,简单理解就是小黑框,输入一些命令,让服务器做一些操作,比如一些服务的开启结束,查看日志,都需要通过命令操作
+在没有图形界面之前,和服务器交互的方式就是命令行,
+简单理解就是小黑框,
+输入命令,让服务器工作,比如服务的开启结束,查看日志
 ## ssh
-各种命令里面最常用的就是ssh,可以登陆其他服务器,可以使用密码和公钥私钥方式,简单来说,公钥就是锁,私钥就是钥匙,设置了公钥,其实就是往门上按一把锁,再通过私钥就可以开门了
+各种命令里面最常用的就是ssh,可以登陆其他服务器,可以使用密码和公钥私钥两种方式
+简单来说,公钥就是锁,私钥就是钥匙,设置了公钥,其实就是往门上按一把锁,再通过私钥就可以开门了
 ## web-service
 所谓的互联网工作,就是提供网络服务,一个最简单情况是,一个运行在服务器上面的程序,web程序加上server服务器,就是网络服务器了,可以提供网络服务的程序有很多,比如nginx,tomcat,各种框架也可以提供网络服务,前端比如vue和react,后端比如flask,spring
 ## file
@@ -55,7 +60,7 @@ git可以使用http和ssh两种方式,ssh方式,其实就是把github或者远�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTkxMTU4OTEsLTIyMTY5MDExOCwxNT
+eyJoaXN0b3J5IjpbLTE2MTg3Mzg1MDIsLTIyMTY5MDExOCwxNT
 ExNzc0Njg5LC00NjczNjI5NzAsMTAxOTIxNTAyOSwtMTQwNTk5
 NDI1OCwtMTc5ODc5MjkwLC0xNTM4NDY5NTc4LDE2ODU0MjA1Mz
 RdfQ==
