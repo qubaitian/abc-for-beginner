@@ -2,8 +2,9 @@
 ## server
 服务器是一个最基本的完整的工作单位
 各种服务运行在上面
-它可以是一个windows台式机,可以是一个mac笔记本,也可以是linux虚拟机
-上面提到的windows,mac,linux,就是操作系统,一般情况下,个人电脑就是windows和mac,一般生产环境的服务器用linux操作系统
+它可以是一个台式机,可以是一个笔记本,也可以是虚拟机
+一般情况下,个人电脑使用windows和mac操作系统
+一般生产环境的服务器用linux操作系统
 ## service
 简单理解服务就是程序
 允许其他人的登陆到自己的服务器,这其实就是一个服务
@@ -11,7 +12,9 @@
 ## url
 通过url访问各种服务
 url最常用的组合就是`地址+端口`
-ssh服务可以让其他人连接到这台服务器,而别人想要使用这个服务就需要访问地址和端口,也就是`ssh -p 22 qubaitian@192.168.31.8`
+ssh服务可以让其他人连接到这台服务器
+而别人想要使用这个服务就需要访问地址和端口
+也就是`ssh -p 22 qubaitian@192.168.31.8`
 再比如网络服务,http的请求默认是80,http的demo项目一般默认是8080,假如本地启动一个demo项目的话一般就会再192.168.31.8:8080,而https默认的是443
 |命令|效果|
 |--|--|
@@ -52,8 +55,8 @@ git可以使用http和ssh两种方式,ssh方式,其实就是把github或者远�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2MjAyODYyLC0yMjE2OTAxMTgsMTUxMT
-c3NDY4OSwtNDY3MzYyOTcwLDEwMTkyMTUwMjksLTE0MDU5OTQy
-NTgsLTE3OTg3OTI5MCwtMTUzODQ2OTU3OCwxNjg1NDIwNTM0XX
-0=
+eyJoaXN0b3J5IjpbLTE1OTkxMTU4OTEsLTIyMTY5MDExOCwxNT
+ExNzc0Njg5LC00NjczNjI5NzAsMTAxOTIxNTAyOSwtMTQwNTk5
+NDI1OCwtMTc5ODc5MjkwLC0xNTM4NDY5NTc4LDE2ODU0MjA1Mz
+RdfQ==
 -->
