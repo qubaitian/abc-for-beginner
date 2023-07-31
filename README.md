@@ -8,7 +8,7 @@
 ## node
 简单的理解就是可以把js当成像python一样的语言,直接编写.js文件,让前端人员也具备了脱离html的srcipt标签也可以工作的能力,比如网络io,数据库读写,文件读写等,
 ## programming language
-前面介绍了,只用命令没法
+前面介绍了,只用命令没法高效的完成编程工作
 ## web-service
 所谓的互联网工作,就是提供网络服务,一个最简单情况是,一个运行在服务器上面的程序,web程序加上server服务器,就是网络服务器了,可以提供网络服务的程序有很多,比如nginx,tomcat,各种框架也可以提供网络服务,前端比如vue和react,后端比如flask,spring
 ## git 
@@ -44,14 +44,14 @@ ssh xiaowensha@127.0.0.1
 各种命令里面最常用的就是ssh,可以登陆其他服务器,可以使用密码和公钥私钥方式,简单来说,公钥就是锁,私钥就是钥匙,设置了公钥,其实就是往门上按一把锁,再通过私钥就可以开门了
 ##  command line
 在没有图形界面之前,和服务器交互的方式就是命令行,简单理解就是小黑框,输入一些命令,让服务器做一些操作,比如一些服务的开启结束,查看日志,都需要通过命令操作
-## operating system
-上面提到的windows,mac,linux,就是操作系统,一般情况下,个人电脑就是windows和mac,一般生产环境的服务器用linux操作系统
+
+
 ## server
 服务器是最基本的完整的工作单位,各种东西运行在上面,它可以是一个windows笔记本,可以是一个mac笔记本,也可以是linux虚拟机
-## why-desc
-考虑到一直更新,和没事看,我选择了倒叙书写,每次都可以在最上面写,别人也能知道最新写了什么,第一次看的话从下往上看比较好,但是我会尽量遵循只使用解释过的概念,重新更新的部分也会从新拿到最上面,保证读者知道那些部分更新了
+## operating system
+上面提到的windows,mac,linux,就是操作系统,一般情况下,个人电脑就是windows和mac,一般生产环境的服务器用linux操作系统
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NzExMDc5NiwtMjIxNjkwMTE4LDE1MT
+eyJoaXN0b3J5IjpbMTE1MzQxMTA2OSwtMjIxNjkwMTE4LDE1MT
 E3NzQ2ODksLTQ2NzM2Mjk3MCwxMDE5MjE1MDI5LC0xNDA1OTk0
 MjU4LC0xNzk4NzkyOTAsLTE1Mzg0Njk1NzgsMTY4NTQyMDUzNF
 19
