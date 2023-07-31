@@ -9,6 +9,11 @@
 各种命令里面最常用的就是ssh,可以登陆其他服务器,可以使用密码和公钥私钥方式,简单来说,公钥就是锁,私钥就是钥匙,设置了公钥,其实就是往门上按一把锁,再通过私钥就可以开门了
 ## url/address&port
 服务器各种服务暴露的地址,一般情况下使用地址加端口的形式,比如在家,用同一个路由器的情况,可以ssh链接,ssh默认的端口往往是22,不写就默认
+|命令|效果|
+|--|--|
+| ssh qubaitian@192.168.31.8 | 连接我的电脑 |
+||连接你自己的电脑|
+
 ```
 连接我的电脑
 ssh qubaitian@192.168.31.8
@@ -45,7 +50,7 @@ git可以使用http和ssh两种方式,ssh方式,其实就是把github或者远�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4Njg4NjcwOCwtMjIxNjkwMTE4LDE1MT
+eyJoaXN0b3J5IjpbLTM4NzMxMzU1NiwtMjIxNjkwMTE4LDE1MT
 E3NzQ2ODksLTQ2NzM2Mjk3MCwxMDE5MjE1MDI5LC0xNDA1OTk0
 MjU4LC0xNzk4NzkyOTAsLTE1Mzg0Njk1NzgsMTY4NTQyMDUzNF
 19
