@@ -8,7 +8,9 @@
 ## service
 简单理解服务就是程序
 允许其他人的登陆到自己的服务器,这其实就是一个服务
-类似的,部署一个数据库服务,一个redis服务,一个后端服务,前端服务等,
+类似的,部署一个数据库服务,一个redis服务,一个后端服务,前端服务等
+## web-service
+所谓的互联网工作,就是提供网络服务,一个最简单情况是,一个运行在服务器上面的程序,web程序加上server服务器,就是网络服务器了,可以提供网络服务的程序有很多,比如nginx,tomcat,各种框架也可以提供网络服务,前端比如vue和react,后端比如flask,spring
 ## url
 通过url访问各种服务
 url最常用的组合就是`地址+端口`
@@ -31,8 +33,6 @@ ssh服务可以让其他人连接到这台服务器
 各种命令里面最常用的就是ssh,可以登陆其他服务器
 可以使用密码和公钥私钥两种方式
 简单来说,公钥就是锁,私钥就是钥匙,设置了公钥,其实就是往门上按一把锁,再通过私钥就可以开门了
-## web-service
-所谓的互联网工作,就是提供网络服务,一个最简单情况是,一个运行在服务器上面的程序,web程序加上server服务器,就是网络服务器了,可以提供网络服务的程序有很多,比如nginx,tomcat,各种框架也可以提供网络服务,前端比如vue和react,后端比如flask,spring
 ## file
 命令的可读性,复用性很低,就是读起来不直观,写错了也不知道咋回事,然后想要改改继续用也很不方便,所以需要把让服务器做的事(程序),处理的数据记录(数据)在文件里,如果希望使用python格式,记录这些东西,那就写XXX.py,如果希望写html,那就写XXX.html,`.py` `.html` 这种叫做文件的扩展名
 ## git 
@@ -59,8 +59,8 @@ git可以使用http和ssh两种方式,ssh方式,其实就是把github或者远�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzNzk5MTkyLC0yMjE2OTAxMTgsMTUxMT
-c3NDY4OSwtNDY3MzYyOTcwLDEwMTkyMTUwMjksLTE0MDU5OTQy
-NTgsLTE3OTg3OTI5MCwtMTUzODQ2OTU3OCwxNjg1NDIwNTM0XX
-0=
+eyJoaXN0b3J5IjpbLTExMzQ2NDY3MiwtMjIxNjkwMTE4LDE1MT
+E3NzQ2ODksLTQ2NzM2Mjk3MCwxMDE5MjE1MDI5LC0xNDA1OTk0
+MjU4LC0xNzk4NzkyOTAsLTE1Mzg0Njk1NzgsMTY4NTQyMDUzNF
+19
 -->
