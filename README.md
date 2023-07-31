@@ -4,9 +4,10 @@
 ## service
 简单理解服务就是程序,允许其他人的登陆到自己的服务器,这其实就是一个服务,类似的,部署一个数据库服务,一个redis服务,一个后端服务,前端服务等,
 ## url
+通过url访问各种服务
 url最常用的组合就是`地址+端口`
-ssh服务可以让其他人连接到这台服务器,而别人想要使用这个服务就需要访问地址和端口,也就是`ssh -p 22 qubaitian@192.168.31.8`,再比如网络服务,http的请求默认是80,http的demo项目一般默认是8080,假如本地启动一个demo项目的话一般就会再192.168.31.8:8080,而https默认的是443
-服务器各种服务暴露的地址,一般情况下使用地址加端口的形式,比如在家,用同一个路由器的情况,可以ssh链接,ssh默认的端口往往是22,不写就默认
+ssh服务可以让其他人连接到这台服务器,而别人想要使用这个服务就需要访问地址和端口,也就是`ssh -p 22 qubaitian@192.168.31.8`
+再比如网络服务,http的请求默认是80,http的demo项目一般默认是8080,假如本地启动一个demo项目的话一般就会再192.168.31.8:8080,而https默认的是443
 |命令|效果|
 |--|--|
 | ssh qubaitian@192.168.31.8 | 连接我的电脑 |
@@ -46,8 +47,8 @@ git可以使用http和ssh两种方式,ssh方式,其实就是把github或者远�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTMwNjA5NSwtMjIxNjkwMTE4LDE1MT
-E3NzQ2ODksLTQ2NzM2Mjk3MCwxMDE5MjE1MDI5LC0xNDA1OTk0
-MjU4LC0xNzk4NzkyOTAsLTE1Mzg0Njk1NzgsMTY4NTQyMDUzNF
-19
+eyJoaXN0b3J5IjpbNjAyNDEyODQwLC0yMjE2OTAxMTgsMTUxMT
+c3NDY4OSwtNDY3MzYyOTcwLDEwMTkyMTUwMjksLTE0MDU5OTQy
+NTgsLTE3OTg3OTI5MCwtMTUzODQ2OTU3OCwxNjg1NDIwNTM0XX
+0=
 -->
