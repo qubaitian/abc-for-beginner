@@ -1,8 +1,12 @@
 # abc-for-beginner
 ## server
-服务器是一个最基本的完整的工作单位,各种服务运行在上面,它可以是一个windows台式机,可以是一个mac笔记本,也可以是linux虚拟机
+服务器是一个最基本的完整的工作单位
+各种服务运行在上面
+它可以是一个windows台式机,可以是一个mac笔记本,也可以是linux虚拟机
 ## service
-简单理解服务就是程序,允许其他人的登陆到自己的服务器,这其实就是一个服务,类似的,部署一个数据库服务,一个redis服务,一个后端服务,前端服务等,
+简单理解服务就是程序
+允许其他人的登陆到自己的服务器,这其实就是一个服务
+类似的,部署一个数据库服务,一个redis服务,一个后端服务,前端服务等,
 ## url
 通过url访问各种服务
 url最常用的组合就是`地址+端口`
@@ -47,8 +51,8 @@ git可以使用http和ssh两种方式,ssh方式,其实就是把github或者远�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAyNDEyODQwLC0yMjE2OTAxMTgsMTUxMT
-c3NDY4OSwtNDY3MzYyOTcwLDEwMTkyMTUwMjksLTE0MDU5OTQy
-NTgsLTE3OTg3OTI5MCwtMTUzODQ2OTU3OCwxNjg1NDIwNTM0XX
-0=
+eyJoaXN0b3J5IjpbLTE4MzUzNzk2OTQsLTIyMTY5MDExOCwxNT
+ExNzc0Njg5LC00NjczNjI5NzAsMTAxOTIxNTAyOSwtMTQwNTk5
+NDI1OCwtMTc5ODc5MjkwLC0xNTM4NDY5NTc4LDE2ODU0MjA1Mz
+RdfQ==
 -->
