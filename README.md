@@ -6,7 +6,7 @@
 	- what is node & npm
 ## vue
 ## node
-简单的理解就是可以把js当成像python一样的语言,直接编写.js文件,让前端人员也具备了脱离html的srcipt标签可以独立工作的能力,比如网络io,数据库读写,文件读写等,
+简单的理解就是可以把js当成像python一样的语言,直接编写.js文件,让前端人员也具备了脱离html的srcipt标签也可以工作的能力,比如网络io,数据库读写,文件读写等,
 
 ## web-service
 所谓的互联网工作,就是提供网络服务,一个最简单情况是,一个运行在服务器上面的程序,web程序加上server服务器,就是网络服务器了,可以提供网络服务的程序有很多,比如nginx,tomcat,各种框架也可以提供网络服务,前端比如vue和react,后端比如flask,spring
@@ -50,7 +50,7 @@ ssh xiaowensha@127.0.0.1
 ## why-desc
 考虑到一直更新,和没事看,我选择了倒叙书写,每次都可以在最上面写,别人也能知道最新写了什么,第一次看的话从下往上看比较好,但是我会尽量遵循只使用解释过的概念,重新更新的部分也会从新拿到最上面,保证读者知道那些部分更新了
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQ5MzM1ODUsLTQ2NzM2Mjk3MCwxMD
-E5MjE1MDI5LC0xNDA1OTk0MjU4LC0xNzk4NzkyOTAsLTE1Mzg0
-Njk1NzgsMTY4NTQyMDUzNF19
+eyJoaXN0b3J5IjpbMTUxMTc3NDY4OSwtNDY3MzYyOTcwLDEwMT
+kyMTUwMjksLTE0MDU5OTQyNTgsLTE3OTg3OTI5MCwtMTUzODQ2
+OTU3OCwxNjg1NDIwNTM0XX0=
 -->
